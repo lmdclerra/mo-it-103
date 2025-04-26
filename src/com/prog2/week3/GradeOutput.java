@@ -5,7 +5,7 @@ import java.awt.event.*;
 import javax.swing.SpringLayout;
 
 /* This code is a preparation to be use by GradeCalculator.java */
-@SuppressWarnings("serial")
+// @SuppressWarnings("serial")
 public class GradeOutput extends JFrame {
 
     // Declare private variables for the Swing components
