@@ -16,6 +16,6 @@ public class Gui_01_Frame {
         frame.getContentPane().setBackground(new java.awt.Color(255, 255, 255)); // Sets the background color of the window
         */
         
-        new MyFrame(); // Create an instance of MyFrame to display the GUI
+        new MyTextFieldFrame(); // Create an instance of MyFrame to display the GUI
     }
 }

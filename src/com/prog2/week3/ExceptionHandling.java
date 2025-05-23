@@ -1,6 +1,7 @@
 package com.prog2.week3;
 
 public class ExceptionHandling {
+    @SuppressWarnings("null")
     public static void main(String[] args) {
         
         // Exception Handling: try-catch-finally

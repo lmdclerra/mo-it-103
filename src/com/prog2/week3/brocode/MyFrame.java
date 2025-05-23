@@ -9,7 +9,7 @@ public class MyFrame extends JFrame {
         
         this.setTitle("JFrame Demonstration & Icon"); // Sets the title of the window
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setResizable(false); // Prevents resizing of the window
+        this.setResizable(true); // Prevents resizing of the window
         this.setSize(420, 420); // Sets the width and height of the window
         this.setVisible(true); // Makes the window visible
         this.setLocationRelativeTo(null); // Centers the window on the screen
