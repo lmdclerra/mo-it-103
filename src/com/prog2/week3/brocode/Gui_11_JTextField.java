@@ -54,7 +54,6 @@ class MyTextFieldFrame extends JFrame implements ActionListener {
     }
 }
 
-// TODO: https://youtu.be/Kmgo00avvEw?t=6913
 public class Gui_11_JTextField {
     public static void main(String[] args) {
         // JTextField is a GUI component that allows the user to enter text
