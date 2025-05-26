@@ -58,7 +58,7 @@ class MyComboBoxFrame extends JFrame implements ActionListener{
     }
 }
 
-// TODO https://youtu.be/Kmgo00avvEw?t=8306
+// https://youtu.be/Kmgo00avvEw?t=8306
 public class Gui_14_JComboBox {
     public static void main(String[] args) {
         new MyComboBoxFrame();
