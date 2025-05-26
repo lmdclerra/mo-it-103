@@ -73,7 +73,6 @@ class MyRadioButtonFrame extends JFrame implements ActionListener {
     }
 }
 
-// TODO https://youtu.be/Kmgo00avvEw?t=7681
 public class Gui_13_JRadioButton {
     // Radio buttons are used when you want to select one option from a group of options
     // You can only select one radio button at a time
