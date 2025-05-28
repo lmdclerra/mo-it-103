@@ -60,7 +60,7 @@ class MyProgressBarFrame extends JFrame  {
     }
 }
 
-// TODO https://youtu.be/Kmgo00avvEw?t=9670
+// https://youtu.be/Kmgo00avvEw?t=9670
 public class Gui_16_JProgressBar {
 
     public static void main(String[] args) {
